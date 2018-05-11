@@ -3,7 +3,7 @@
 # SOLARIZED color values
 # ---------------------------------------------------------------------
 # Download palettes and files from: http://ethanschoonover.com/solarized
-# 
+#
 # SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
 # --------- ------- ---- -------  ----------- ---------- ----------- -----------
 # base03    #002b36  8/4 brblack  234 #1c1c1c 15 -12 -12   0  43  54 193 100  21
@@ -62,7 +62,7 @@ J_violet        ,color61         ,brightmagenta   ,
 J_blue          ,color33         ,blue            ,
 J_cyan          ,color37         ,cyan            ,
 J_green         ,color64         ,green           ,
-J_bg            ,color233        ,default         ,
+J_bg            ,color230        ,default         ,
 J_fg            ,color240        ,default         ,
 J_statusfg      ,color244        ,brightblue      ,
 J_statusbg      ,color254        ,white           ,
